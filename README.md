@@ -11,7 +11,7 @@ This project introduces an **automated, deep learning-based image classification
 
 ---
 
-## 🔬 Objectives
+### 🔬 Objectives
 
 * Develop a reliable image-based classification system for leukemia cells.
 * Compare deep learning and transfer learning models for multi-class classification.
@@ -20,7 +20,7 @@ This project introduces an **automated, deep learning-based image classification
 
 ---
 
-## 📊 Dataset
+### 📊 Dataset
 
 * **Source**: Publicly available leukemia dataset from [Kaggle](https://www.kaggle.com/).
 * **Size**: 3,261 original white blood cell images.
@@ -35,7 +35,7 @@ Original images were prioritized over segmented ones to retain complete cellular
 
 ---
 
-## 🧠 Models Used
+### 🧠 Models Used
 
 * **VGG16** → Achieved best generalization with **96.32% test accuracy**.
 * **ResNet50** → Very high accuracy (**99.85%**) but showed signs of overfitting.
@@ -44,7 +44,7 @@ Original images were prioritized over segmented ones to retain complete cellular
 
 ---
 
-## 🚀 Key Findings
+### 🚀 Key Findings
 
 * **VGG16** proved the most reliable and generalizable among the tested models.
 * Transfer learning significantly boosted performance across architectures.
@@ -52,7 +52,7 @@ Original images were prioritized over segmented ones to retain complete cellular
 
 ---
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 * **Python**
 * **TensorFlow / Keras**
@@ -61,7 +61,7 @@ Original images were prioritized over segmented ones to retain complete cellular
 
 ---
 
-## 📜 License
+### 📜 License
 
 This project is released for academic and research purposes. Feel free to use, modify, and contribute while giving proper attribution.
 
