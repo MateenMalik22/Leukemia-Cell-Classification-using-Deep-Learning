@@ -1,4 +1,17 @@
 # Leukemia Cell Classification Using Deep Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF6F91?style=for-the-badge&logo=gradio&logoColor=white" />
+</p>
+
 ## 📌 Project Overview
 Leukemia, a type of blood cancer affecting white blood cells, presents diagnostic challenges due to the morphological similarities between cancerous and healthy cells. Manual diagnosis via microscopy is often time-consuming and subject to observer variability.  
 
@@ -11,7 +24,7 @@ This project introduces an **automated, deep learning-based image classification
 - Lay groundwork for future cloud-based diagnostic support tools  
 
 ## 📊 Dataset
-- **Source**: Publicly available leukemia dataset from [Kaggle](https://www.kaggle.com/)  
+- **Source**: [Blood Cell Cancer (ALL) 4-Class Dataset](https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class)  
 - **Size**: 3,261 original white blood cell images  
 - **Classes**:  
   - Benign  
@@ -37,6 +50,8 @@ Original images were prioritized over segmented ones to retain complete cellular
 - **TensorFlow / Keras**  
 - **NumPy, Pandas, Matplotlib**  
 - **Jupyter Notebook**  
+- **Gradio (for deployment UI)**  
 
 ## 📜 License
 This project is released for academic and research purposes. Feel free to use, modify, and contribute while giving proper attribution.
+```
