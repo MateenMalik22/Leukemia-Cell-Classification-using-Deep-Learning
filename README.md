@@ -1,5 +1,3 @@
-Got it 👍
-Here’s your cleaned-up **README.md** without the SDGs, Team Members, and Future Work sections:
 
 ---
 
