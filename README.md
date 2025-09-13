@@ -2,7 +2,6 @@
 ---
 
 # Leukemia Cell Classification Using Deep Learning
-
 ### 📌 Project Overview
 
 Leukemia, a type of blood cancer affecting white blood cells, presents diagnostic challenges due to the morphological similarities between cancerous and healthy cells. Manual diagnosis via microscopy is often time-consuming and subject to observer variability.
