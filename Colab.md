@@ -1,6 +1,6 @@
 # Leukemia Cell Classification Using Deep Learning
 
-[c![Colab Logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q9KXFhlukU98Pl1MQTyxnHszX3YJ5Dyq?usp=sharing)  
+[Click here][![Colab Logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q9KXFhlukU98Pl1MQTyxnHszX3YJ5Dyq?usp=sharing)  
 👉 [Click here to open in Colab](https://colab.research.google.com/drive/1q9KXFhlukU98Pl1MQTyxnHszX3YJ5Dyq?usp=sharing)
 
 ## 📖 Description
